@@ -5,10 +5,12 @@ The Student Management System is a Java-based console application that helps man
 
 Project Structure:
 
-StudentManagementSystem
  model/User.java                         # Defines the User (Student) object with data and display methods
+ 
  service/ UserService.java               # Contains core business logic (Add, Search, Delete, Add Marks)
+ 
  storage/ UserStorage.java               # Stores and manages user records using a dynamic list
+ 
  main class/ StudentManagement.java      # Main class with menu-driven interface and input handling
 
 Features:
@@ -35,15 +37,18 @@ Features:
 
 Technologies Used:
 
-Java (JDK 17)
-VS Code or IntelliJ
+Java (JDK 17),
+VS Code or IntelliJ,
 Also used java oops principle like encapsulation, abstraction.
 
  Future Enhancements (Suggestions)
 
 🗃️ Store data permanently using file or database integration.
+
 🖼️ Add GUI using JavaFX or Swing.
+
 📑 Generate student reports (PDF/CSV).
+
 🔐 Add user login system for security.
 
 
