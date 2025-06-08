@@ -15,25 +15,25 @@ Project Structure:
 
 Features:
 
-✅ Add new students with details like name, class, gender, ID, and fee info.
+- Add new students with details like name, class, gender, ID, and fee info.
 
-📄 View all student records neatly formatted.
+- View all student records neatly formatted.
 
-📚 Add subject-wise marks with validation (0–100 only).
+- Add subject-wise marks with validation (0–100 only).
 
-🔍 Search a student using their ID.
+- Search a student using their ID.
 
-❌ Delete a student record with confirmation.
+- Delete a student record with confirmation.
 
-💰 Calculate and display pending fees automatically.
+- Calculate and display pending fees automatically.
 
-🔒 Strong input validation for numeric and text fields.
+- Strong input validation for numeric and text fields.
 
-⚠️ Prevent duplicate student IDs and warn on duplicate names.
+- Prevent duplicate student IDs and warn on duplicate names.
 
-🧱 Layered architecture: Model → Service → Storage
+- Layered architecture: Model → Service → Storage
 
-🛠️ Easy to extend with GUI or database in future.
+- Easy to extend with GUI or database in future.
 
 Technologies Used:
 
@@ -43,13 +43,13 @@ Also used java oops principle like encapsulation, abstraction.
 
  Future Enhancements (Suggestions)
 
-🗃️ Store data permanently using file or database integration.
+- Store data permanently using file or database integration.
 
-🖼️ Add GUI using JavaFX or Swing.
+- Add GUI using JavaFX or Swing.
 
-📑 Generate student reports (PDF/CSV).
+- Generate student reports (PDF/CSV).
 
-🔐 Add user login system for security.
+- Add user login system for security.
 
 
 
